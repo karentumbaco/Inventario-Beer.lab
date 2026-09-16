@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>BeerLab</RootNamespace>
+    <AssemblyName>BeerLab</AssemblyName>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <ApplicationIcon></ApplicationIcon>
+    <Product>beer.lab Inventario</Product>
+    <Company>beer.lab</Company>
+    <Description>Inventario de bodega para Visual Studio Community</Description>
+  </PropertyGroup>
+</Project>
